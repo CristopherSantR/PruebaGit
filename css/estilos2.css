@@ -1,0 +1,27 @@
+body{
+    background: darkgray;
+    font-size: 16px;
+}
+
+/* em refiere a el tamano padre que se encuentra es decir podemos utilizar a medida que sea el body y este cambiaria a manera*/
+p{
+    font-size: 2em;
+    background: burlywood;
+    color: cornsilk;
+}
+h2,h3{
+    font-size: 2rem;
+    color:rgb(35, 36, 35);
+    background: deepskyblue;
+    
+}
+
+div{
+    width: 600px;
+    background: gainsboro;
+    margin: 5px 10px ;
+    padding: 8px;
+    border: 8px solid #2323;
+    display: inline-block;
+
+}

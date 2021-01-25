@@ -1,0 +1,13 @@
+
+body{
+    background: #efefef;
+}
+nav{
+    background-color: #A9A9A9;
+    color: #232323;
+    padding-bottom: 15px;
+    position: center;
+    justify-content:space-between;
+    text-align: center;
+    
+}

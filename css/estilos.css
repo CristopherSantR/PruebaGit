@@ -1,0 +1,41 @@
+body{
+    background: #232323;
+    color: #fff;
+}
+
+h2,h1,h3,h6{
+    color:#596314;
+}
+h1{
+    font-size: 20px; 
+}
+/* aca seleccionamos los titulos es decir lo que conocemos tal cual h2 etc.*/
+h2{
+    font-size: 60px;
+}
+p{
+    color:rgb(159, 219, 211);
+}
+
+/* aqui estamos englobando de manera general el selector a para que sean personalizados a medida de lo que necesitamos.*/
+a{
+    color:coral;
+    font-size: 15px;
+}
+
+/*aqui seleccionamos el parrafo y dentro de este podemos seleccionar por ejemplo el selecctor i para que tenga su propia personalizacion*/
+p i{
+    color: burlywood;
+}
+/*esto servira para seleccionar las clases que gustes y guardaste mediante a es decir la clase yellow*/
+.yellow{
+    color: burlywood;
+}
+
+
+
+
+a[href="https://www.facebook.com/profile.php?id=100008436279494"]{
+    color:green;
+    font-size: 50px;
+}
