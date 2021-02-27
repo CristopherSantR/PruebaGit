@@ -1,0 +1,34 @@
+body{
+    background: #232323;
+}
+
+section{
+    background-color: #EFEFEF;
+    border: 10px #a9a9a9;
+    padding: 20px;
+    width: 50%;
+    margin:auto;
+}
+
+header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+button{
+    background: #232323;
+    color: aliceblue;
+}
+
+
+.task{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    color: white;
+}
